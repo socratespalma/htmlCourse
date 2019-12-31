@@ -1,2 +1,2 @@
 # htmlCourse
-This is my first web page with HTML5, ezperimenting with Git.
+This is my first web page with HTML5, experimenting with Git.
